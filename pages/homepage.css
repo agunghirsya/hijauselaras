@@ -324,7 +324,7 @@
   box-sizing: border-box;
 }
 .homepage .hero-banner {
-  background: linear-gradient(180.83deg, rgba(0, 0, 0, 0) NaN%, #FFFFFF NaN%), linear-gradient(180deg, #496442 12.7%, rgba(0, 0, 0, 0) 63.76%), url('../assets/images/photo.png'), url('../assets/images/hero_background.jpeg') 50% / cover no-repeat, linear-gradient(#C1C1C1, #C1C1C1);
+  background: linear-gradient(180.83deg, rgba(0, 0, 0, 0) , #FFFFFF), linear-gradient(180deg, #496442 12.7%, rgba(0, 0, 0, 0) 63.76%), url('../assets/images/photo.png'), url('../assets/images/hero_background.jpeg') 50% / cover no-repeat, linear-gradient(#C1C1C1, #C1C1C1);
   position: relative;
   display: flex;
   flex-direction: column;
